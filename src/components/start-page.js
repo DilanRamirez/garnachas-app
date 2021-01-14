@@ -8,7 +8,7 @@ import logo from "../assets/img/start_logo.png";
 function StartPage(props) {
   return (
     <Container className={style.wrapper}>
-      <h1 className={style.title}>The Garnachas App</h1>
+      <h1 className={style.title}>Garnachas App</h1>
 
       <p className={style.subTitle}>
         Garnachas recipes from the community to the community
